@@ -1,0 +1,3 @@
+{"invoice_item_id":59,"invoice_code":2387,"customers_id":3298,"device_id":4,"items_id":150,"items_name":"New Keratin for Normal Hair 250ml","qty_selable":4,"qty_nonselable":0,"mrp":365,"discount":109.5,"discount_type":0,"discount_amount":438,"is_manual_dis":"","total":1022,"eff_date":"2020-06-12 15:01:02","item_type":1}, 
+{"invoice_item_id":59,"invoice_code":2387,"customers_id":3298,"device_id":4,"items_id":150,"items_name":"New Keratin for Normal Hair 250ml","qty_selable":4,"qty_nonselable":0,"mrp":365,"discount":109.5,"discount_type":0,"discount_amount":438,"is_manual_dis":"","total":1022,"eff_date":"2020-06-12 15:01:02","item_type":1}, 
+
